@@ -20,7 +20,7 @@ Compilation of code using Django and HTML through Virtual Studio Code(VSCode)
 
 ## Misc
 
-
+NA
 
 
 
