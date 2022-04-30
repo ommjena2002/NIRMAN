@@ -25,16 +25,19 @@ https://github.com/sudhanshuprasad/ExpertKheti
 React, Firebase, Python
 
 ## Misc
-
+###Mentors:
+Sidharth Bhatter
+Nandann Singh
+Saswat Samal
 
 ## Team Details 
-### Sudhanshu Prasad
+### Sudhanshu Prasad - React Frontend
 sudhasnhuprasad.sp@gmail.com
-### P.Biswanath Patra
+### P.Biswanath Patra - Python Backend
 roshanbiswanathpatra@gmail.com
-### Debangan Chakraborty
+### Debangan Chakraborty - Graphics Design & UI/UX | Canva
 debanganchakraborty12@gmail.com
-### Om Tanmaya Pati 
+### Om Tanmaya Pati UI/UX & Data Collection
 omtanmaya2004@gmail.com
 
 ### Team members github links
