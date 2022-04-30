@@ -10,6 +10,7 @@ Solution Approach
 Developing a Smart Attendance Capturing Mobile App using Face Recognition and Geo-fencing. User must login at the selected premises. Location of the user and the face is recognized by matching the data from the database. Attendance is marked successful if the user's face is matched and he/she must be present on the campus. Administrator maintains the database of all the Users.
 
 Tech Stack
+https://github.com/amankumar210/Smart-Attendance-System_Team-Rexon.git
 
 Software : Android Studio, MY SQL Server database Plugins Used Google Maps API Programming Language : Java , Python(Open CV)
 
